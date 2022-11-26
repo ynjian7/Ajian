@@ -5,6 +5,7 @@ CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV6,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 CCTV7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
@@ -17,6 +18,25 @@ CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd$全国CDN
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd$全国CDN
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd$全国CDN
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd$全国CDN
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd$全国CDN
+CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p$全国CDN
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd$全国CDN
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd$全国CDN
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd$全国CDN
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd$全国CDN
+CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd$全国CDN
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd$全国CDN
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd$全国CDN
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd$全国CDN
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd$全国CDN
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd$全国CDN
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd$全国CDN
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k$全国CDN4K
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd$全国CDN
 CCTV1,http://xjayrf.eatuo.com:9901/tsfile/live/1020_1.m3u8$广东杜比5.1
 CCTV2,http://xjayrf.eatuo.com:9901/tsfile/live/1021_1.m3u8$广东杜比5.1
 CCTV3,http://xjayrf.eatuo.com:9901/tsfile/live/1022_1.m3u8$广东杜比5.1
@@ -228,39 +248,19 @@ CCTV14,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8
 CCTV15,http://39.136.48.10:8089/PLTV/88888888/224/3221226409/index.m3u8$华东
 CCTV15,http://39.136.48.11:8089/PLTV/88888888/224/3221226409/index.m3u8$华东
 CCTV15,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1$华北
-CCTV16,http://118.31.113.130:82/gudou.php?id=4010$4K50帧
 CCTV16,http://39.135.6.71:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$4K
 CCTV16,http://39.135.6.71:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3$高清
+CCTV16,http://27.36.62.163:9090/live/4010.m3u8$4K
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8$高清
 CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls$4K
 CCTV16,http://livepull.sxiptv.cn/live/CCTV16.m3u8?txSecret=eb9c76cfe79581d77642610a4445e33a&txTime=66666666$高清
 CCTV17,http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.5:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
-CCTV4K,https://p.ggiptv.com/v/4k.m3u8$4K
-CCTV4K,https://v.bjiptv.eu.org/4.php$4K
-CCTV4K,http://118.31.113.130:82/gudou.php?id=CCTVHHD4K_38000$4K50帧
-CCTV4K,http://118.31.113.130:82/gudou.php?id=4005_4500$4K50帧
-CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8$4K
-CCTV4K,http://ye23.win/iptv/4k.cctv.php$4K
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8$假4K但可回看
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$4K
-CCTV1,http://218.29.135.2:4000/udp/225.1.4.73:1102$河南专用
-CCTV2,http://218.29.135.2:4000/udp/225.1.4.74:1103$河南专用
-CCTV3,http://218.29.135.2:4000/udp/225.1.4.158:1194$河南专用
-CCTV5,http://218.29.135.2:4000/udp/225.1.4.159:1195$河南专用
-CCTV6,http://218.29.135.2:4000/udp/225.1.4.160:1196$河南专用
-CCTV8,http://218.29.135.2:4000/udp/225.1.4.161:1197$河南专用
-CCTV5+,http://218.29.135.2:4000/udp/225.1.4.75:1104$河南专用
-CCTV7,http://218.29.135.2:4000/udp/225.1.4.76:1105$河南专用
-CCTV9,http://218.29.135.2:4000/udp/225.1.4.77:1106$河南专用
-CCTV10,http://218.29.135.2:4000/udp/225.1.4.78:1107$河南专用
-CCTV12,http://218.29.135.2:4000/udp/225.1.4.79:1108$河南专用
-CCTV13,http://218.29.135.2:4000/udp/225.1.4.113:1293$河南专用
-CCTV11,http://218.29.135.2:4000/udp/225.1.4.215:1268$河南专用
-CCTV15,http://218.29.135.2:4000/udp/225.1.4.216:1269$河南专用
-CCTV17,http://218.29.135.2:4000/udp/225.1.4.226:2506$河南专用
-CCTV14,http://218.29.135.2:4000/udp/225.1.4.80:1109$河南专用
+CCTV4K,http://27.36.62.163:9090/live/CCTVHHD4K_38000.m3u8$4K
+CCTV4K,http://27.36.62.163:9090/live/4005_4500.m3u8$4K
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$假4K
+CCTV8K,http://vl15191373.imwork.net:8880/udp/239.93.42.61:5140$8K超高清
 CCTV4欧洲,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8
 CCTV4美洲,http://39.136.48.20:8089/PLTV/88888888/224/3221226395/index.m3u8
 CCTV4美洲,http://39.136.48.7:8089/PLTV/88888888/224/3221226395/index.m3u8
@@ -408,6 +408,7 @@ CCTV15,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226744/1000010000000006000
 CCTV16,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226747/10000100000000060000000006758792_0.smil
 CCTV17,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226841/index.m3u8
 CCTV5+,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
+
 中影老故事,http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
 中学生,http://121.51.249.157/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8$高清720P
 	
@@ -1273,7 +1274,6 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.4
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 
-
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1311,23 +1311,9 @@ TVBS欢乐台,rtmp://59.124.75.147:1935/sat/tv421
 TVBS新闻台,rtmp://9wv7.mine.nu/sat/tv551
 TVBS新闻台,rtmp://59.124.75.147/sat/tv551
 TVBS新闻台,rtmp://59.124.75.147:1935/sat/tv551
-中视,rtmp://59.124.75.147/sat/tv091
-中视,rtmp://59.124.75.147:1935/sat/tv091
-华视,rtmp://9wv7.mine.nu/sat/tv111
-华视,rtmp://59.124.75.147/sat/tv111
-华视,rtmp://59.124.75.147:1935/sat/tv111
-台视,rtmp://9wv7.mine.nu/sat/tv071
-台视,rtmp://59.124.75.147/sat/tv071
-台视,rtmp://59.124.75.147:1935/sat/tv071
-民视,rtmp://9wv7.mine.nu/sat/tv051
-民视,rtmp://59.124.75.147/sat/tv051
-民视,rtmp://59.124.75.147:1935/sat/tv051
-
-
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
 J2,http://120.84.96.221:808/hls/86/index.m3u8 
 J2,http://120.84.96.222:808/hls/86/index.m3u8 
-
 八度空间,http://51.79.82.208:16005
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
@@ -1362,9 +1348,9 @@ J2,http://120.132.122.244:59845/hls/81/index.m3u8
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 天映经典,http://27.47.71.97:808/hls/62/index.m3u8
 天映频道,http://51.79.82.208:16024
-翡翠台,http://120.84.96.74:808/hls/25/index.m3u8
+翡翠台,http://118.31.113.130:82/gudou.php?id=1350_4500
+翡翠台,http://120.84.96.78:808/hls/25/index.m3u8
 翡翠台,http://mzwh4455.qicp.vip:280/hls/35/index.m3u8
-翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://nsszds.f3322.net:808/hls/25/index.m3u8
 翡翠台,http://27.47.71.97:808/hls/36/index.m3u8
 翡翠台,http://113.64.147.187:808/hls/67/index.m3u8
@@ -1372,6 +1358,7 @@ J2,http://120.132.122.244:59845/hls/81/index.m3u8
 RTHK31,http://120.132.122.244:59845/hls/89/index.m3u8
 RTHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 RTHK33,http://120.132.122.244:59845/hls/91/index.m3u8
+
 
 📡｜直播中国,#genre#
 广西玉林大容山莲花山顶,http://gcbsc.v.live.baishancdnx.cn/gc/drs01_1/index.m3u8
