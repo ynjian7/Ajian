@@ -1231,13 +1231,12 @@ TVB星河,http://113.64.147.252:808/hls/135/index.m3u8
 TVB翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 TVB翡翠台,http://113.117.74.11:808/hls/25/index.m3u8
 TVB翡翠台,http://113.117.74.11:808/hls/67/index.m3u8
-TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
-TVB翡翠台,http://120.84.96.66:808/hls/25/index.m3u8
+
 TVB翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 TVB翡翠台,http://113.64.147.180:808/hls/67/index.m3u8
 TVB翡翠台,http://120.84.96.50:808/hls/25/index.m3u8
 TVB翡翠台,http://120.84.96.62:808/hls/25/index.m3u8
-TVB翡翠台,http://23.237.10.66:16106$楂樻竻1080P
+
 TVB翡翠台,http://120.84.96.62:808/hls/25/index.m3u8?blog.ntnas.top
 TVB翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 TVB翡翠台,http://120.84.96.55:808/hls/25/index.m3u8
