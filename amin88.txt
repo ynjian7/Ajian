@@ -1291,6 +1291,7 @@ TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVBRICS CN,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TVBRICS ENG,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
+华丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 明珠台,http://120.84.96.78:808/hls/26/index.m3u8
 明珠台,http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
@@ -1336,11 +1337,13 @@ TVBRICS ENG,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 明珠台,http://113.64.147.252:808/hls/26/index.m3u8
 TVB翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8$抖音CDN
 TVB翡翠台,http://r.jdshipin.com/62WM7
+TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://120.84.96.120:808/hls/25/index.m3u8
 TVB翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-TVB翡翠台,http://r.jdshipin.com/qClQf
+
 
 TVB翡翠台(华丽台),http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+TVB翡翠台(华丽台),http://line.premiumpowers.net:80/Manuel/1234567/941619
 TVB翡翠台(华丽台),http://23.237.10.66:16410$高清1080P
 TVB翡翠台(华丽台),http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
 TVB翡翠台(华丽台),http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
@@ -1455,6 +1458,7 @@ TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733
 民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc	
 民视TW,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a	
 民视TW,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2	
+民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 民视新闻台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689	
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8	
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8	
@@ -1471,10 +1475,11 @@ TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8	
 台视新闻,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 中视新闻,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8	
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
-中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+中天新闻,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天新闻,P2p://ns3.hellotvvod.com:9906/b26ad0652296454e89797e599f0d942e
 中天娱乐,P2p://ns3.hellotvvod.com:9906/bdc4d793fb644337ac0125d4ffcb8e46
 中天综合,P2p://ns3.hellotvvod.com:9906/5f629bc30c744ba58a69290eb1b30f00	
