@@ -1460,11 +1460,8 @@ TVB翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 TVB翡翠台,http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500$广东有线高清
 TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-TVB翡翠台(华丽台),http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
-TVB翡翠台(华丽台),http://line.premiumpowers.net:80/Manuel/1234567/941619
-TVB翡翠台(华丽台),http://23.237.10.66:16410$高清1080P
-TVB翡翠台(华丽台),http://103.214.71.71:1631/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=V4EGy8UaJM1icpVzv3uv7w&expires=1671770110
-TVB翡翠台(华丽台),http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+华丽翡翠台,http://r.jdshipin.com/thuYX
+
 無綫新聞,http://iptv.cooltv.top/tv/tvb.php?id=0
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
