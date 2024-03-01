@@ -1,5 +1,25 @@
 
 🇨🇳｜央视频道,#genre#
+CCTV1,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv1$高码秒播
+CCTV2,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv2$高码秒播
+CCTV3,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv3$高码秒播
+CCTV4,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv4$高码秒播
+CCTV5,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv5$高码秒播
+CCTV5+,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv5p$高码秒播
+CCTV6,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv6$高码秒播
+CCTV7,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv7$高码秒播
+CCTV8,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv8$高码秒播
+CCTV9,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv9$高码秒播
+CCTV10,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv10$高码秒播
+CCTV11,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv11$高码秒播
+CCTV12,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv12$高码秒播
+CCTV13,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv13$高码秒播
+CCTV14,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv14$高码秒播
+CCTV15,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv15$高码秒播
+CCTV16,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv16$高码秒播
+CCTV17,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv17$高码秒播
+
+
 
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -31,6 +51,25 @@ CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CHC家庭影院,http://www.liuyunw.com:88/zb/itv.php?id=chcjt
 CHC动作电影,http://www.liuyunw.com:88/zb/itv.php?id=chcdz
 CHC高清电影,http://www.liuyunw.com:88/zb/itv.php?id=chcgq
+
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 CCTV1,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://39.134.66.4:80/PLTV/88888888/224/3221225816/index.m3u8?
 CCTV2,http://61.170.80.241/liveali-tpgq.cctv.cn/live/cctv2.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?#http://120.196.232.124:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
@@ -173,11 +212,12 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8
+广西卫视,http://tvbox6.com/tv/dl/dl668/ysp.php?id=gxws
+广西卫视,https://i.smart-chat.net/ysp.php?id=gxws
 
 
-
-
-
+广东卫视,http://tvbox6.com/tv/dl/dl668/ysp.php?id=gdws
+广东卫视,https://i.smart-chat.net/ysp.php?id=gdws
 广东卫视,http://202.168.187.208:2024/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://202.168.187.208:2024/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://202.168.187.208:2024/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -283,28 +323,6 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 康巴卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 
 
-
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-安徽卫视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8
-吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
-北京卫视,http://222.134.57.82:8154/tsfile/live/0122_1.m3u8
-东方卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=东方卫视HD 
-东方卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=东方卫视HD2 
-重庆卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=重庆卫视 
-吉林卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=吉林卫视 
-辽宁卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=辽宁卫视HD 
-内蒙古卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=内蒙古卫视 
-宁夏卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=宁夏卫视 
-甘肃卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=甘肃卫视 
-青海卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=青海卫视 
-陕西卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=陕西卫视HD 
-山东卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=山东卫视HD 
-湖北卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=湖北卫视HD 
-湖南卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=湖南卫视HD 
-江西卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=江西卫视HD 
-江苏卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=江苏卫视HD 
-广东卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=广东卫视HD 
-广东卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=广东卫视HD2
 
 
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
@@ -830,5 +848,4 @@ HZTV-2高清,http://116.20.32.193:54321/udp/239.77.1.233:5146
 🌏｜【亚洲】,#genre#
 
 🤹🏼｜动画杂烩,#genre#
-
 
