@@ -114,6 +114,12 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 
 
 📡｜卫视频道,#genre#
+
+凤凰中文,http://119.125.134.141:9901udp://@239.3.3.128:10001
+凤凰中文,http://49.234.31.101:7004udp://@224.9.2.5:5000
+
+凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8#http://110.72.83.181:808/hls/333/index.m3u8
 凤凰香港,P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#http://110.72.83.181:808/hls/83/index.m3u8
@@ -166,10 +172,7 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
-广西卫视,http://39.135.55.72:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-广西卫视,http://183.196.25.171:808/hls/46/index.m3u8
-
+广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8
 
 
 
@@ -827,4 +830,5 @@ HZTV-2高清,http://116.20.32.193:54321/udp/239.77.1.233:5146
 🌏｜【亚洲】,#genre#
 
 🤹🏼｜动画杂烩,#genre#
+
 
