@@ -20,6 +20,34 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8#
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+CCTV1,http://1.83.163.63:8888/udp/239.109.205.118:8880               
+CCTV2,http://1.83.163.63:8888/udp/239.109.205.106:8784              
+CCTV3,http://1.83.163.63:8888/udp/239.109.205.79:8568              
+CCTV4,http://1.83.163.63:8888/udp/239.109.205.159:9108
+CCTV4中文,http://1.83.163.63:8888/udp/239.110.205.121:7792
+CCTV4中文,http://1.83.163.63:8888/udp/239.110.205.120:7796
+CCTV5,http://1.83.163.63:8888/udp/239.109.205.80:8576
+CCTV6,http://1.83.163.63:8888/udp/239.109.205.84:8608
+CCTV7,http://1.83.163.63:8888/udp/239.110.205.7:9774
+CCTV8,http://1.83.163.63:8888/udp/239.109.205.90:8656               
+CCTV9,http://1.83.163.63:8888/udp/239.110.205.8:9778
+CCTV10,http://1.83.163.63:8888/udp/239.110.205.9:9782
+CCTV11,http://1.83.163.63:8888/udp/239.109.205.102:8752
+CCTV12,http://1.83.163.63:8888/udp/239.110.205.10:9786               
+CCTV13,http://1.83.163.63:8888/udp/239.110.205.99:7880
+CCTV14,http://1.83.163.63:8888/udp/239.110.205.20:9826               
+CCTV15,http://1.83.163.63:8888/udp/239.109.205.103:8760
+CCTV16,http://1.83.163.63:8888/udp/239.110.205.136:7732
+CCTV17,http://1.83.163.63:8888/udp/239.109.205.88:8640
+教育1,http://1.83.163.63:8888/udp/239.109.205.78:8560
+CGTN,http://1.83.163.63:8888/udp/239.110.205.78:7964
+CGTN西班牙语,http://1.83.163.63:8888/udp/239.110.205.79:7960
+CGTN法语,http://1.83.163.63:8888/udp/239.110.205.80:7956  
+CGTN俄语,http://1.83.163.63:8888/udp/239.110.205.117:7808 
+CGTN英文纪录,http://1.83.163.63:8888/udp/239.110.205.119:7800
+CGTN阿拉伯语,http://1.83.163.63:8888/udp/239.110.205.118:7804   
+
+
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -235,6 +263,70 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 广西卫视,http://222.71.189.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 广西卫视,http://219.145.93.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
 广西卫视,http://113.57.103.216:9000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+东方卫视,http://1.83.163.63:8888/udp/239.109.205.121:8904
+湖南卫视,http://1.83.163.63:8888/udp/239.109.205.163:9002
+江苏卫视,http://1.83.163.63:8888/udp/239.109.205.119:8368
+浙江卫视,http://1.83.163.63:8888/udp/239.109.205.120:8896
+北京卫视,http://1.83.163.63:8888/udp/239.109.205.162:8898
+广东卫视,http://1.83.163.63:8888/udp/239.109.205.188:9610
+深圳卫视,http://1.83.163.63:8888/udp/239.109.205.189:9602
+黑龙江卫视,http://1.83.163.63:8888/udp/239.109.205.190:9604
+湖北卫视,http://1.83.163.63:8888/udp/239.109.205.165:9006
+四川卫视,http://1.83.163.63:8888/udp/239.110.205.18:9818
+安徽卫视,http://1.83.163.63:8888/udp/239.110.205.11:9790
+重庆卫视,http://1.83.163.63:8888/udp/239.109.205.70:8496
+天津卫视,http://1.83.163.63:8888/udp/239.110.205.23:9838
+东南卫视,http://1.83.163.63:8888/udp/239.109.205.177:9626
+河南卫视,http://1.83.163.63:8888/udp/239.109.205.140:9026
+江西卫视,http://1.83.163.63:8888/udp/239.109.205.96:8704
+吉林卫视,http://1.83.163.63:8888/udp/239.109.205.115:8856
+贵州卫视,http://1.83.163.63:8888/udp/239.109.205.139:9024
+辽宁卫视,http://1.83.163.63:8888/udp/239.110.205.12:9794
+河北卫视,http://1.83.163.63:8888/udp/239.109.205.158:9106
+山东卫视,http://1.83.163.63:8888/udp/239.109.205.191:9606
+上海纪实,http://1.83.163.63:8888/udp/239.109.205.52:8352
+甘肃卫视,http://1.83.163.63:8888/udp/239.110.205.122:7788
+
+东方卫视,http://1.83.163.63:8888/udp/239.109.205.21:8096
+湖南卫视,http://1.83.163.63:8888/udp/239.109.205.27:8144
+江苏卫视,http://1.83.163.63:8888/udp/239.109.205.22:8104
+浙江卫视,http://1.83.163.63:8888/udp/239.109.205.23:8112
+北京卫视,http://1.83.163.63:8888/udp/239.109.205.20:8088
+广东卫视,http://1.83.163.63:8888/udp/239.109.205.38:8232
+深圳卫视,http://1.83.163.63:8888/udp/239.109.205.43:8280
+黑龙江卫视,http://1.83.163.63:8888/udp/239.109.205.36:8216
+湖北卫视,http://1.83.163.63:8888/udp/239.109.205.28:8152
+山东卫视,http://1.83.163.63:8888/udp/239.109.205.25:8128
+四川卫视,http://1.83.163.63:8888/udp/239.109.205.31:8176
+安徽卫视,http://1.83.163.63:8888/udp/239.109.205.24:8120
+重庆卫视,http://1.83.163.63:8888/udp/239.109.205.30:8168
+天津卫视,http://1.83.163.63:8888/udp/239.109.205.33:8192
+东南卫视,http://1.83.163.63:8888/udp/239.109.205.37:8224
+河南卫视,http://1.83.163.63:8888/udp/239.109.205.32:8184
+江西卫视,http://1.83.163.63:8888/udp/239.109.205.29:8160
+吉林卫视,http://1.83.163.63:8888/udp/239.109.205.35:8208
+贵州卫视,http://1.83.163.63:8888/udp/239.109.205.40:8248
+辽宁卫视,http://1.83.163.63:8888/udp/239.109.205.34:8200
+云南卫视,http://1.83.163.63:8888/udp/239.110.205.15:9806
+厦门卫视,http://1.83.163.63:8888/udp/239.110.205.21:9830
+兵团卫视,http://1.83.163.63:8888/udp/239.109.205.86:8624
+三沙卫视,http://1.83.163.63:8888/udp/239.110.205.100:7876
+河北卫视,http://1.83.163.63:8888/udp/239.110.205.14:9802
+山西卫视,http://1.83.163.63:8888/udp/239.109.205.26:8136
+青海卫视,http://1.83.163.63:8888/udp/239.109.205.44:8288
+西藏卫视,http://1.83.163.63:8888/udp/239.109.205.45:8296
+内蒙古卫视,http://1.83.163.63:8888/udp/239.109.205.46:8304
+新疆卫视,http://1.83.163.63:8888/udp/239.110.205.13:9798
+甘肃卫视,http://1.83.163.63:8888/udp/239.109.205.125:8936
+宁夏卫视,http://1.83.163.63:8888/udp/239.109.205.126:8944
+海南卫视,http://1.83.163.63:8888/udp/239.109.205.41:8256
+广西卫视,http://1.83.163.63:8888/udp/239.109.205.39:8240
+
+
+
+
+
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$黑龙江8M1080
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$黑龙江8M1080
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$黑龙江4M1080
@@ -631,20 +723,22 @@ TVB星河,http://113.117.74.17:8081/hls/135/index.m3u8
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://feng163.com:9000/bysid/1
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
-
-
-
-
-
 翡翠台,http://feng163.com:9000/bysid/1
 翡翠台,http://r.jdshipin.com/qClQf
 天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
 天映经典,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
-
+HOY 76,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
+HOY 77,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+HOY 78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+TVB J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+VIU TV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
+明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+TVB J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
+HOY 77,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
+HOY 78,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
+VIU TV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 
 
 明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
