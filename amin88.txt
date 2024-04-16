@@ -673,6 +673,19 @@ CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.
 
 
 🇹🇼｜湾仔,#genre#
+
+
+台视 HD,rtmp://f13h.mine.nu/sat/tv071
+中视 HD,rtmp://f13h.mine.nu/sat/tv091
+华视 HD,rtmp://f13h.mine.nu/sat/tv111
+民视 HD,rtmp://f13h.mine.nu/sat/tv051
+
+民视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20074&fbl=
+台视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20076&fbl=
+华视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20086&fbl=
+公视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20087&fbl=
+中视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20088&fbl=
+
 中天新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org:80/live.m3u8?c=3
 民视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=11
@@ -688,77 +701,126 @@ TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5
 
 亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
 
-台视 HD,rtmp://f13h.mine.nu/sat/tv071
-中视 HD,rtmp://f13h.mine.nu/sat/tv091
-华视 HD,rtmp://f13h.mine.nu/sat/tv111
-民视 HD,rtmp://f13h.mine.nu/sat/tv051
-台视 HD,rtmp://60.248.77.83/sat/tv071
-中视 HD,rtmp://60.248.77.83/sat/tv091
-华视 HD,rtmp://60.248.77.83/sat/tv111
-民视 HD,rtmp://60.248.77.83/sat/tv051
-台视 HD,rtmp://9hv9.mine.nu/sat/tv071
-中视 HD,rtmp://9hv9.mine.nu/sat/tv091
-华视 HD,rtmp://9hv9.mine.nu/sat/tv111
-民视 HD,rtmp://9hv9.mine.nu/sat/tv051
-民视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20074&fbl=
-台视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20076&fbl=
-华视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20086&fbl=
-公视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20087&fbl=
-中视 HD,http://141.95.85.201:6666/livehttpplay?channel_id=20088&fbl=
-民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-台视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
-中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
-东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
-公视,http://livetv.skycf.eu.org/live.m3u8?c=8
-民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
-三洋,http://livetv.skycf.eu.org/live.m3u8?c=12
-华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
-东森经财,http://livetv.skycf.eu.org/live.m3u8?c=14
-民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
-台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
-中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
-霹雳台湾台,mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
-华视,mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
-获取更多信息,mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
-好消息,mitv://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
-原住民电视台,mitv://generationnexxxt.com:19806/cb5b7549e3604100a605ca17c82808f5
-客家电视台,mitv://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
-台视综合台,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
-探索频道,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
-TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
-动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
-CN卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
-MOMO亲子台,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
-东森幼幼台,mitv://generationnexxxt.com:19806/baa16215e2224e399f6dc71eb3576ed4
-纬来综合台,mitv://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
-八大第一台,mitv://generationnexxxt.com:19806/270abff66f5e496fb9c100a0dbca3fe6
-八大综合台,mitv://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
-三立台湾台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
-三立都会台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
-东森综合台,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
-超视,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
-中天综合台,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
-中天娱乐台,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
-东森戏剧台,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
-八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
-TVBS欢乐台,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
-纬来戏剧台,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
-高点综合台,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
-HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-壹电视新闻台,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
-年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-三立新闻台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
-TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
-东森财经新闻台,mitv://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
-非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+TVBS新聞,http://everydaytv.top/play-3-167-0.html
+TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+TVBS歡樂,http://everydaytv.top/play-3-164-0.html
+TVBS歡樂,https://www.histar.tv/live/tvbs-huanle
+UBA直播,https://today.line.me/tw/v2/article/j7J22GY
+八大第1,http://everydaytv.top/play-3-9-0.html
+八大精采,http://everydaytv.top/play-3-10-0.html
+八大娛樂,http://everydaytv.top/play-3-12-0.html
+八大綜合,http://everydaytv.top/play-3-13-0.html
+八大戲劇,http://everydaytv.top/play-3-11-0.html
+三立台灣,http://everydaytv.top/play-3-146-0.html
+三立都會,http://everydaytv.top/play-3-142-0.html
+三立綜合,http://everydaytv.top/play-3-149-0.html
+三立戲劇,http://everydaytv.top/play-3-147-0.html
+大愛,https://www.histar.tv/live/daai1
+大愛二台,https://www.histar.tv/live/daai2
+
+中天亞洲,http://everydaytv.top/play-3-197-0.html
+中天娛樂,http://everydaytv.top/play-3-198-0.html
+中天新聞,http://everydaytv.top/play-3-194-0.html
+中天綜合,http://everydaytv.top/play-3-198-0.html
+中視,http://everydaytv.top/play-3-190-0.html
+中視,https://www.histar.tv/live/ctv
+中視新聞,http://everydaytv.top/play-3-193-0.html
+中視經典,http://everydaytv.top/play-3-192-0.html
+公視,http://everydaytv.top/play-3-71-0.html
+天映頻道,http://everydaytv.top/play-3-172-0.html
+台視,http://everydaytv.top/play-3-158-0.html
+台視,https://www.histar.tv/live/ttv
+台灣生活新聞,https://today.line.me/tw/v2/article/Lvpg70
+民視,http://everydaytv.top/play-3-126-0.html
+民視台灣,http://everydaytv.top/play-3-129-0.html
+民視第一,http://everydaytv.top/play-3-127-0.html
+民視新聞,https://today.line.me/tw/v2/article/PNNoG5
+民視綜藝,video://video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16
+好萊塢電影,http://everydaytv.top/play-3-85-0.html
+亞州旅遊,https://www.histar.tv/live/asia-travel
+東森幼幼,https://www.histar.tv/live/ebc-yoyo
+東森財經股市,http://everydaytv.top/play-3-37-0.html
+東森財經新聞,http://everydaytv.top/play-3-38-0.html
+東森LIVE,http://everydaytv.top/play-3-41-0.html
+東森洋片,http://everydaytv.top/play-3-45-0.html
+東森超視,http://everydaytv.top/play-3-39-0.html
+東森新聞,https://today.line.me/tw/v2/article/grrvVZ
+東森新聞,http://everydaytv.top/play-3-43-0.html
+東森電影,https://www.histar.tv/live/ebc-movie
+東森電影,http://everydaytv.top/play-3-40-0.html
+東森綜合,http://everydaytv.top/play-3-46-0.html
+東森綜合,https://www.histar.tv/live/ebc-ettv
+東森戲劇,http://everydaytv.top/play-3-42-0.html
+非凡新聞,http://everydaytv.top/play-3-63-0.html
+非凡新聞,https://www.histar.tv/live/ustv-news
+星衛娛樂,http://everydaytv.top/play-3-183-0.html
+星衛娛樂,https://www.histar.tv/live/star-entetainment
+星衛電影,http://everydaytv.top/play-3-182-0.html
+美亞電影,https://www.histar.tv/live/meiah-movies
+美食星球,http://everydaytv.top/play-3-130-0.html
+美食星球,https://www.histar.tv/live/food-planet
+迪士尼頻道,https://www.histar.tv/live/disney
+動物星球,http://everydaytv.top/play-3-47-0.html
+動物星球,https://www.histar.tv/live/animal-planet
+國家地理,http://everydaytv.top/play-3-66-0.html
+國家地理野生,http://everydaytv.top/play-3-67-0.html
+國家地理野生,https://www.histar.tv/live/natgeo-wild
+探索亞洲,http://everydaytv.top/play-3-34-0.html
+探索亞洲,https://www.histar.tv/live/discovery-asia
+探索科學,http://everydaytv.top/play-3-36-0.html
+探索科學,https://www.histar.tv/live/discovery-sci
+探索動力,http://everydaytv.top/play-3-35-0.html
+探索動力,https://www.histar.tv/live/dmax
+探索頻道,http://everydaytv.top/play-3-33-0.html
+探索頻道,https://www.histar.tv/live/discovery
+壹新聞,https://www.histar.tv/live/nexttv
+華視,http://everydaytv.top/play-3-86-0.html
+華視,https://www.histar.tv/live/cts
+靖天卡通,http://everydaytv.top/play-3-96-0.html
+靖天卡通,https://www.histar.tv/live/jtkt
+靖天國際,http://everydaytv.top/play-3-94-0.html
+靖天國際,https://www.histar.tv/live/jtgj
+靖天資訊,http://everydaytv.top/play-3-101-0.html
+靖天電影,https://www.histar.tv/live/jtdy
+靖洋戲劇,https://www.histar.tv/live/jyxj
+緯來日本,http://everydaytv.top/play-3-173-0.html
+緯來日本,https://www.histar.tv/live/videoland-japan
+緯來育樂,http://everydaytv.top/play-3-176-0.html
+緯來電影,http://everydaytv.top/play-3-171-0.html
+緯來電影,https://www.histar.tv/live/videoland-movie
+緯來綜合,http://everydaytv.top/play-3-177-0.html
+緯來戲劇,http://everydaytv.top/play-3-175-0.html
+緯來體育,http://everydaytv.top/play-3-174-0.html
+緯來體育,https://www.histar.tv/live/videoland-sport
+寰宇新聞,http://everydaytv.top/play-3-92-0.html
+歷史頻道,https://www.histar.tv/live/history
+龍祥時代,http://everydaytv.top/play-3-122-0.html
+龍祥電影,https://www.histar.tv/live/lstime
+龍華洋片,http://everydaytv.top/play-3-120-0.html
+龍華偶像,http://everydaytv.top/play-3-116-0.html
+龍華電影,http://everydaytv.top/play-3-111-0.html
+龍華電影,https://www.histar.tv/live/ltv-movies
+龍華影劇,http://everydaytv.top/play-3-119-0.html
+龍華戲劇,http://everydaytv.top/play-3-118-0.html
 
 🍍｜️壮美广西,#genre#
 
