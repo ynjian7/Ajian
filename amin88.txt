@@ -327,6 +327,10 @@ CCTV17,http://58.23.26.184:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 CCTVnews,http://144.52.162.68:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡｜卫视频道,#genre#
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
@@ -372,12 +376,7 @@ CCTVnews,http://144.52.162.68:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 
-凤凰资讯,http://110.72.80.22:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://110.72.84.209:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://171.108.239.91:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://110.72.81.79:8181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://110.72.81.79:8181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://110.72.80.22:8181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -412,30 +411,10 @@ CCTVnews,http://144.52.162.68:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 
 
-广东卫视,http://106.8.126.232:4022/rtp/239.254.200.56:8048
-广西卫视,http://111.227.194.117:4022/rtp/239.254.200.80:8300
-广西卫视,http://111.227.204.111:4022/rtp/239.254.200.80:8300
-广西卫视,http://106.116.2.100:8890/rtp/239.254.200.80:8300
-广西卫视,http://111.227.41.224:4022/rtp/239.254.200.80:8300
-广西卫视,http://139.189.80.212:4022/rtp/239.254.200.80:8300
-广西卫视,http://106.116.2.100:8890/rtp/239.254.200.80:8300
-广西卫视,http://111.227.204.111:4022/rtp/239.254.200.80:8300
-广西卫视,http://106.8.126.232:4022/rtp/239.254.200.80:8300
-广西卫视,http://106.8.127.69:4022/rtp/239.254.200.80:8300
-广西卫视,http://111.227.204.111:4022/rtp/239.254.200.80:8300
-广西卫视,http://106.8.127.69:4022/rtp/239.254.200.80:8300
-广西卫视,http://27.189.125.74:4022/rtp/239.254.200.80:8300
-广西卫视,http://121.19.134.245:808/hls/49/index.m3u8
-广西卫视,http://121.19.134.109:808/hls/49/index.m3u8
-广西卫视,http://121.19.134.102:808/hls/49/index.m3u8
-广西卫视,http://121.19.134.45:808/hls/49/index.m3u8
-广西卫视,http://60.6.78.23:808/hls/35/index.m3u8
-广西卫视,http://60.6.78.19:808/hls/35/index.m3u8
-广西卫视,http://101.18.27.91:808/hls/62/index.m3u8
-广西卫视,http://101.18.27.219:808/hls/62/index.m3u8
-广西卫视,http://121.19.134.8:808/hls/62/index.m3u8
-广西卫视,http://www.huangyi.online:808/hls/49/index.m3u8
-广西卫视,http://58.220.219.14:9901/tsfile/live/0113_1.m3u8?key=txiptv
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+广西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226954/71778425.smil#rtsp://118.212.169.207:554/PLTV/88888888/224/3221227105/10000100000000060000000000637589_0.smil#http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls?zjiangxd#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+广西卫视,http://tvbox.netsite.cc/proxy/1407270894/1407270894.m3u8
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$可回放
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$可回放
